@@ -5,9 +5,9 @@ This is the source for Ubuntu Budgie's [Team Timezones](https://ubuntubudgie.git
 CREDITS
 -------
 - Website designed and developed by [Rohan "HEXcube" Villoth][hexcube]
-- Inspired by [Joshua "Foggalong" Fogg](https://github.com/Foggalong)'s [Numix Team Timezones](http://foggalong.github.io/web/time/index.html) site
+- Inspired by [Joshua "Foggalong" Fogg](https://github.com/Foggalong)'s [Numix Team Timezones](http://foggalong.github.io/web/time/) site
 - Derived from [Cover Template for Bootstrap](https://getbootstrap.com/docs/4.0/examples/cover/), released under [MIT License][MIT]
-- World clock script from [jsclock](https://www.cssscript.com/javascript-library-to-display-current-local-times-around-the-world-jsclock/), released under [MIT License][MIT]
+- World clock script from [jClocksGMT.js](https://www.jqueryscript.net/time-clock/jQuery-Based-Analog-And-Digital-World-Clock-jClocksGMT-js.html), released under [MIT License][MIT]
 - Background image is *Xplo Tesselation* by [Rania el-Amina][raniaamina], which is inturn derived from [Xplo][xplo] by [Hugo Cliff][hugo-cliff] licensed under [Creative Commons Attribution License 4.0][CC-BY]
 - Favicons generated using [Real Favicon Generator](https://realfavicongenerator.net)
 
