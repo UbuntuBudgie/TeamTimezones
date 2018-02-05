@@ -9,14 +9,20 @@ a:hover {
   color: #fff;
 }
 
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
+/* Custom button */
+.styled-button {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
-  border: 0.05rem solid #fff;
+  border: 0.1rem solid #fff;
+  transition: 0.4s;
+}
+
+.styled-button:hover,
+.styled-button:focus {
+  color: #fff;
+  background-color: transparent;
+  border-color: #fff;
 }
 
 
