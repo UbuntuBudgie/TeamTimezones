@@ -80,6 +80,14 @@ a:hover {
 
 
 /*
+ * Main Area
+ */
+.clock-container div.jcgmt-digital, .clock-container div.jcgmt-date {
+  display: none;
+}
+
+
+/*
  * Footer
  */
 .mastfoot {
