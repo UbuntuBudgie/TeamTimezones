@@ -1,6 +1,6 @@
 /*
   Configuration for jClocksGMT.js
-  https://www.jqueryscript.net/time-clock/jQuery-Based-Analog-And-Digital-World-Clock-jClocksGMT-js.html
+  https://jqueryscript.net/time-clock/jQuery-Based-Analog-And-Digital-World-Clock-jClocksGMT-js.html
 */
 
 $('#timezone-uk').jClocksGMT({
