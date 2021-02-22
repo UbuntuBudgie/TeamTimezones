@@ -43,16 +43,6 @@ $('#timezone-netherlands').jClocksGMT({
   dateformat: 'YYYY-MM-DD'
 })
 
-$('#timezone-italy').jClocksGMT({
-  title: '',
-  digital: true,
-  analog: false,
-  offset: '+1',
-  timeformat: 'HH:mm',
-  date: true,
-  dateformat: 'YYYY-MM-DD'
-})
-
 $('#timezone-india').jClocksGMT({
   title: '',
   digital: true,
@@ -64,28 +54,7 @@ $('#timezone-india').jClocksGMT({
   dateformat: 'YYYY-MM-DD'
 })
 
-$('#timezone-uk2').jClocksGMT({
-  title: '',
-  digital: true,
-  analog: false,
-  offset: '0',
-  timeformat: 'HH:mm',
-  date: true,
-  dateformat: 'YYYY-MM-DD'
-})
-
 $('#timezone-srilanka').jClocksGMT({
-  title: '',
-  digital: true,
-  analog: false,
-  offset: '+5.5',
-  dst: false,
-  timeformat: 'HH:mm',
-  date: true,
-  dateformat: 'YYYY-MM-DD'
-})
-
-$('#timezone-india2').jClocksGMT({
   title: '',
   digital: true,
   analog: false,
