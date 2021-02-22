@@ -27,6 +27,16 @@ a:hover {
 
 
 /*
+  GitHub Corner
+  https://github.com/remarkablemark/github-corners
+*/
+.landing-page .github-corner > svg {
+  fill: white;
+  color: black;
+}
+
+
+/*
  * Base structure
  */
 
