@@ -1,6 +1,6 @@
 # Timezones of Ubuntu Budgie team members
 
-This is the source for Ubuntu Budgie's [Team Timezones](https://ubuntubudgie.github.io/team-timzones) website
+This is the source for Ubuntu Budgie's [Team Timezones](https://UbuntuBudgie.github.io/TeamTimezones) website
 
 CREDITS
 -------
@@ -12,9 +12,14 @@ CREDITS
 - Favicons generated using [Real Favicon Generator](https://realfavicongenerator.net)
 
 
-[hexcube]: https://hexcube.github.io "HEXcube's website"
+LICENSE
+-------
+Except where otherwise noted, all original content here are released under [MIT License][MIT]. However, part of the work here are derived from other open source projects and as a result follow the licenses of their original sources.
+
+
+[HEXcube]: https://HEXcube.github.io "HEXcube's website"
 [MIT]: https://opensource.org/licenses/MIT "More info on MIT License"
 [raniaamina]: https://github.com/raniaamina "Rania's GitHub page"
-[hugo-cliff]: https://hyperdude111.deviantart.com "Hugo Cliff's DeviantArt page"
-[xplo]: https://hyperdude111.deviantart.com/art/Xplo-460418499 "Xplo on DeviantArt"
+[hugo-cliff]: https://deviantart.com/hyperdude111 "Hugo Cliff's DeviantArt page"
+[xplo]: https://deviantart.com/hyperdude111/art/Xplo-460418499 "Xplo on DeviantArt"
 [CC-BY]: https://creativecommons.org/licenses/by/4.0/ "More info on CC BY 4.0"
